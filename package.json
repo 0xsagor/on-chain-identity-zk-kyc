@@ -1,0 +1,10 @@
+{
+  "name": "on-chain-identity-zk-kyc",
+  "version": "1.0.0",
+  "description": "Privacy-preserving ZK-Identity verification",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "snarkjs": "^0.7.4",
+    "circomlibjs": "^0.1.7"
+  }
+}
